@@ -1,5 +1,5 @@
 FROM openjdk:8
-MAINTAINER David Flemström <dflemstr@spotify.com>
+MAINTAINER cedoo <cedoo@qq.com>
 
 ENTRYPOINT ["java", "-jar", "/usr/share/myservice/theservice.jar"]
 
